@@ -1,7 +1,8 @@
-samsung-riscvA\n
+samsung-riscv
 This is a RISC-V Talent Development Program, powered by Samsung Semiconductor India Research (SSIR) along with VLSI System Design (VSD).
 
 Basic Details About Me
+
 Name: Poorvi M A
 College: Sahyadri College of Engineering and Management 
 Email ID: poorvii533@gmail.com
